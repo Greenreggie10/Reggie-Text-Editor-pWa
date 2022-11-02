@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd Develop/server && npm run start",
-    "build": "cd Develop/client && npm run build",
-    "install": "cd Develop/server && npm install && cd ../client && npm install"  },
+    "install": "cd Develop/server && npm install && cd ../client && npm install",
+    "build": "cd Develop/client && npm run build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Greenreggie10/Reggie-Text-Editor-pWa.git"
