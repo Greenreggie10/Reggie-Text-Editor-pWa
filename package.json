@@ -1,0 +1,21 @@
+{
+  "name": "reggie-text-editor-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server && npm run start",
+    "build": "cd client && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenreggie10/Reggie-Text-Editor-pWa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenreggie10/Reggie-Text-Editor-pWa/issues"
+  },
+  "homepage": "https://github.com/Greenreggie10/Reggie-Text-Editor-pWa#readme"
+}
