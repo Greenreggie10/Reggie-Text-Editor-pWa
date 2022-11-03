@@ -12,7 +12,7 @@ This program is a PWA program that uses Indexeddb to store data. The app can run
 
 ## !-- stillshot of site -->
 
-![alt text](./assets/../Develop/assets/Screenshot%20(JATE).png)
+![alt text](./assets/images/../Screenshot%20(JATE).png)
 
 
 ## !-- Installation --> 
