@@ -1,5 +1,5 @@
 import { openDB } from 'idb';
-import 'regenerator-runtime/runtime';
+// import 'regenerator-runtime/runtime';
 
 const initdb = async () =>
   openDB('jate', 1, {
