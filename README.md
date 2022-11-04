@@ -20,7 +20,7 @@ This program is a PWA program that uses Indexeddb to store data. The app can run
 
 
 See the application functioning 
-[Access to deployed heroku link](  )
+[Access to deployed heroku link]( https://peaceful-caverns-83980.herokuapp.com/ )
 
   To install necessary dependencies run the following command:
 
